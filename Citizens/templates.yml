@@ -1,4 +1,4 @@
-mandrakk:
+Mandrakk:
   override: false
   replacements:
     traits:
